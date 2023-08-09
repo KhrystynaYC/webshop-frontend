@@ -1,5 +1,7 @@
 # E-Commerce React App - Project
 
+![homepage](/src/assets/slider1-homepage1.jpg)
+
 Welcome to the E-Commerce React App project! This repository contains the codebase for a comprehensive E-Commerce web application built using React, where the primary purpose is to learn the fundamental principles of React through the process of creating an e-commerce website.
 
 ## Overview
